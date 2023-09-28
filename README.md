@@ -14,7 +14,7 @@ python --version
 pip install -r requirements.txt
 ```
 
-Note: I have done exploraty data analysis. Haven't deployed the code yet.
+Note: I have done exploraty data analysis and tried to do kmeans clustering. Haven't deployed the code yet.
 
 ## Source Code Structure
 
